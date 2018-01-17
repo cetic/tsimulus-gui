@@ -1,8 +1,8 @@
-# tsimulus-exporter
+# tsimulus-gui
 
 ## Usage
 
-In progress ...
+A vuejs app that presents Tsimulus. In progress...
 
 ## Build Setup
 
